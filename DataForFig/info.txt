@@ -1,0 +1,4 @@
+
+Name		Description
+CVX_res_08032209	GWR_list = {'MILP','IDM'};d_t_f_list = 0:20:120;seed_list = [1,5,10,25,50,75,100];
+tc_res_08032209	along with CVX_res_08032209
